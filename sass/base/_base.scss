@@ -32,9 +32,12 @@ body {
         padding: 0;
     }
 
+   
+
+
 }
 
 ::selection {
-    background-color: $color-primary;
+    background: $color-primary;
     color: $color-white;
 }
